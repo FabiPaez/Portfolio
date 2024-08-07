@@ -136,7 +136,7 @@
             <div class="child">
               <h1>Contact info</h1>
               <v-btn icon="fas fa-map-marker-alt" class="mt-10" variant="outlined"></v-btn><br />
-              <span class="text-caption">Calle Siempre Viva</span><br />
+              <span class="text-caption">Calle Siempre Viva 123</span><br />
               <v-btn icon="fas fa-phone-alt" class="mt-10" variant="outlined"></v-btn><br />
               <span class="text-caption">0800-474-8074</span><br />
               <v-btn icon="fas fa-envelope" class="mt-10" variant="outlined"></v-btn><br />
