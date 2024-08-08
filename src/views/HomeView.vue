@@ -95,15 +95,7 @@
                   Lorem ipsum dolor sit amet <br /> consectetur adipisicing
                   <br /> elit. Sit, obcaecati.
                 </p>
-            </div>
-            <div class="child">
-                <v-btn icon="fas fa-wine-glass" color="#F8DF7E" class="text-white"></v-btn>
-                <h3 class="ml-3 mt-4">Drinking Tetrabrik Wine</h3>
-                <p class="text-grey ml-3 mt-4 text-caption">
-                  Lorem ipsum dolor sit amet <br /> consectetur adipisicing
-                  <br /> elit. Sit, obcaecati.
-                </p>
-            </div>
+            </div>           
             </v-col>            
           </v-row>
           <v-divider></v-divider>
@@ -136,11 +128,11 @@
             <div class="child">
               <h1>Contact info</h1>
               <v-btn icon="fas fa-map-marker-alt" class="mt-10" variant="outlined"></v-btn><br />
-              <span class="text-caption">Calle Siempre Viva 123</span><br />
+              <span class="text-caption">Jáchal - San Juan, Argentina</span><br />
               <v-btn icon="fas fa-phone-alt" class="mt-10" variant="outlined"></v-btn><br />
-              <span class="text-caption">0800-474-8074</span><br />
+              <span class="text-caption">2645-147603</span><br />
               <v-btn icon="fas fa-envelope" class="mt-10" variant="outlined"></v-btn><br />
-              <span class="text-caption">mandale-mecha@gmail.com</span><br />
+              <span class="text-caption">faedpaez@gmail.com</span><br />
             </div>
           </v-col>
           <v-col cols="12" sm="8">
